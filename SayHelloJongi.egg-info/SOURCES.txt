@@ -1,0 +1,8 @@
+README.md
+setup.py
+SayHelloJongi/Hello.py
+SayHelloJongi/__init__.py
+SayHelloJongi.egg-info/PKG-INFO
+SayHelloJongi.egg-info/SOURCES.txt
+SayHelloJongi.egg-info/dependency_links.txt
+SayHelloJongi.egg-info/top_level.txt
