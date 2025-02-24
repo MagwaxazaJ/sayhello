@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "SayHello"
+version = "0.1.0"
+description = "A simple example package"
+authors = [{name = "Jongisizwe", email = "jongisizwe66@gmail.com"}]
+readme = "README.md"
+license = {file = "LICENSE"}
+requires-python = ">=3.6"
+dependencies = []
