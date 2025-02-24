@@ -3,7 +3,7 @@ requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "SayHello"
+name = "SayHelloJongi"
 version = "0.1.0"
 description = "A simple example package"
 authors = [{name = "Jongisizwe", email = "jongisizwe66@gmail.com"}]
